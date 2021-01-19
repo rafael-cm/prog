@@ -1,0 +1,35 @@
+body{
+    /*background: url(../fundos/textura.jpg);
+    background-repeat: no-repeat; --> esse comando e pra nao repetir a imagem do fundo
+    background-size: cover; --> esse comando e pra o fundo cubrir toda a pagina */
+}
+#principal{
+    color: blue;
+    background: url(../fundos/textura.jpg);
+}
+/*#paragrafos{
+    background: url(../fundos/textura.jpg);
+}*/
+#titulo{
+    color: brown;
+}
+
+.marcaçao{
+    background-color: rgb(152, 224, 224);
+}
+.texto_verde{
+
+    color: rgb(236, 13, 13);
+}
+
+.container{
+width: 200px;
+height: 100px;
+background-color:red;
+}
+
+.inside{
+    width: 80px;
+    height: 80px;
+    background: blue;
+}

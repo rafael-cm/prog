@@ -1,0 +1,39 @@
+body{
+
+    background-color: black;
+}
+
+h1{
+  font-size: 25px;
+  
+}
+
+
+.card{
+    width: 400px; /*largura*/
+    height: 200px; /*autura*/
+    box-sizing: border-box; /*fixa o tamanho e nao deixa auterar*/
+    padding: 1px 20px; /*regula 1px autura e 20px largura*/
+    background-image: url('../Imagens/backgorund.png');
+    background-repeat: no-repeat;
+    background-size: cover; /*esse faz com que a imagem cubra toda a tela*/
+    margin: auto; /*centraliza na tela*/
+    margin-top: 10%; /*a distacia da parte superior*/
+}
+a{
+    text-decoration: none; /*tira a borda do link*/
+    color: black; /*troca a cor do link*/
+}
+
+.insta{
+
+    list-style-image: url(../Imagens/Insta.png);
+}
+.twitter{
+
+    list-style-image: url(../Imagens/Twitter.png);
+}
+.youtube{
+
+    list-style-image: url(../Imagens/Youtube.png);
+}

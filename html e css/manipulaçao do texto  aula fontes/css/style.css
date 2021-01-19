@@ -1,0 +1,20 @@
+p{
+color: red;
+/*text-align: justify; --> esse comando ajusta o texto de forma regular*/
+
+/*text-transform: uppercase ; --> esse comando deixa tudo em maiusculo*/
+
+/*text-transform: lowercase ; --> esse comando deixa tudo em minusculo*/
+
+/*text-transform: capitalize; --> esse  deixa deixa a primeira letra de cada frase maiuscula*/
+
+/*letter-spacing: 1.2px; --> esse e o tamanho do espaço entre as letras*/
+
+/*line-height: 20px; --> esse e o tamanho da linha entre uma e outra*/
+
+/*word-spacing: 10px; -->  espaço entre uma palavra da outra*/
+
+/*text-shadow: 2px 2px 2px #bbb; --> esse coloca sombra nas letras
+a ordem são desfoque,deslocamento p baixo e deslo para direita
+ e o ultimo a cor*/
+}

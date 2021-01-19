@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html>
+<header>
+<title>aula usando fontes customizadas</title>
+<meta charset="utf-8">
+<!--<link rel="stylesheet" href="css/style.css">-->
+<link href="https://fonts.googleapis.com/css2?family=Langar&display=swap" rel="stylesheet">
+<!--ESSE LINK FAZ O MESMO SERVIÇO DO @font-face SOMENTE COM LINK
+  DO SITE DO GOOGLE FONTS-->
+<body>
+ <style>
+ h1{
+     font-family: forte, Helvetica, sans-serif;
+ }
+p{
+    font-family: 'minhafonte', cursive;
+    
+}
+
+@font-face{
+    font-family: minhafonte;
+    src: url(./fontes/BrushScriptStd.otf);
+}
+@font-face{
+    font-family: fonte2;
+    src: url(./fontes/FORTE.otf);
+    /*essa fonte esta na pasta fontes do projeto*/
+}
+@font-face {
+  font-family: minhaffont;
+  src: url(sansation_light.woff); /*esse comando pega a fonte do link*/
+}
+
+ </style>
+ </header>
+<h1>Lorem Ipsum is simply dummy text of the printing </h1>
+
+<p>Lorem Ipsum is simply dummy text of the printing and
+     typesetting industry. Lorem Ipsum has been the 
+     industry's standard dummy text ever since the 1500s,
+      when an unknown printer took a galley of type and 
+      scrambled it to make a type specimen book. It has 
+      survived not only five centuries, but also the leap
+       into electronic typesetting, remaining essentially
+        unchanged. It was popularised in</p>
+
+</body>
+
+</html>

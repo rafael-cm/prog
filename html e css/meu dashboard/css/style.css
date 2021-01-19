@@ -1,0 +1,30 @@
+body{
+    background-color: blue;
+}
+.links{
+ text-decoration: nome;
+ margin: 3px;
+color: #bc2035;
+background: white;
+padding: 10px; /*largura*/
+padding-top: 3px; /*aumenta pra cima*/
+padding-bottom: 3px; /*aumenta pra baixo*/
+border-radius: 8px; /*esse comando deixa os cantos arredondados*/
+border: 2px solid red; /*esse faz as bordas*/
+
+}
+
+/*esse comando a baixo "links:hover" faz com que mude de cor o botao 
+quando a gente passa o mouse em cima dele*/
+.links:hover{
+background-color: #bc2935; /*cor do fundo quando passa o mouse*/
+color: white; /*cor que fica a letra quando passa o mouse*/
+}
+
+/*esse comando a baixo "links:active" faz com que mude de cor o botao 
+quando a gente clica no botao*/
+
+.links:active{
+    background-color: rgb(79, 79, 212); /*cor do fundo quando clica o mouse*/
+    color: white; /*cor que fica a letra quando clica o mouse*/
+    }
