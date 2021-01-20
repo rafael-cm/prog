@@ -1,0 +1,31 @@
+== color highligth  - esse pliguin aparace a cor no exa
+
+== live server  - atualizar direto no crome
+
+= material icon theme   - esse serve para mostrar os icones dos projetos
+
+== HTML CSS Support - esse oferece um auto complete para css e html
+   funciona com o comando CTRL + ESPAÇO
+
+== Css peek  - segurando o CTRL ele mostra onde ta o elemento da regra
+e se clicar ele te leva ate a regra, e se clicar com o botao direiro
+e em Peek ele abre uma janela para alterar a regra.
+
+== CSS Formatter -  funciona com os botoes Alt + Shift + F e formata
+os codigos css
+
+== entrar em settings.json  e acrescentar esse comando "editor.formatOnSave": true,
+que ao salvar ele ja organiza automaticamente os codigos
+
+===================COMANDOS=====================
+
+== ctrl + p  = pesquiza os arquvos
+
+== ctrl + shift + L  - cria um multi cursor e o 
+que vc selecionar tudo que tiver o mesmo nome ele seleciona e muda
+
+== ctrl + }  - abre outra tela
+
+== alt + seta - move seleçao para cima ou para baixo
+
+== alt + shift + seta para baixo - clonan a seleçao
